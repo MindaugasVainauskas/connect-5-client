@@ -1,5 +1,5 @@
 # connect-5-client
-Simple connect-5 client/server client part. Not fully functional! Tests are generated but not populated.
+Simple connect-5 client/server (connect-4 offshoot) console game client part.
 
 
 ## Note:
